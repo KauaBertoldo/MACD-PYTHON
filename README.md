@@ -1,9 +1,9 @@
-#Link para abrir o projeto 
-https://macd-python-qgs3vhxpd2rk5wscs2iir9.streamlit.app/
-
 # Projeto de Análise de Ações com MACD
 
 Este projeto implementa uma ferramenta de análise de ações utilizando o indicador MACD (Moving Average Convergence Divergence) em Python. A aplicação permite aos usuários inserir o símbolo de uma ação, realizar a análise e visualizar o gráfico com os pontos de compra e venda destacados.
+
+Link para abrir o projeto: https://macd-python-qgs3vhxpd2rk5wscs2iir9.streamlit.app/
+
 
 ## Funcionalidades
 
