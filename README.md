@@ -34,3 +34,5 @@ Este projeto implementa uma ferramenta de análise de ações utilizando o indic
     ```sh
     streamlit run app.py
     ```
+
+![Imagem Do Programa](https://github.com/KauaBertoldo/MACD-PYTHON/blob/main/Captura%20de%20tela%202024-07-26%20085457.png)
