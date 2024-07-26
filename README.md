@@ -9,7 +9,6 @@ Este projeto implementa uma ferramenta de análise de ações utilizando o indic
 ## Funcionalidades
 
 - **Entrada de Símbolo da Ação:** Permite ao usuário inserir o símbolo da ação a ser analisada (sempre adicionar `.SA` ao final do símbolo).
-- **Seleção de Tipo de Análise:** Atualmente, suporta apenas análise utilizando o indicador MACD.
 - **Plotagem de Gráfico:** Gera um gráfico interativo com o preço de fechamento das ações e marcações nos pontos de compra e venda.
 - **Mensagem de Operação:** Exibe uma mensagem final indicando a operação sugerida (compra, venda ou manter) com base no último fechamento.
 
