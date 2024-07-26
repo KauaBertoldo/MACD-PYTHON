@@ -1,6 +1,5 @@
-Claro! Aqui está o README com a imagem incluída:
-
----
+#Link para abrir o projeto 
+https://macd-python-qgs3vhxpd2rk5wscs2iir9.streamlit.app/
 
 # Projeto de Análise de Ações com MACD
 
